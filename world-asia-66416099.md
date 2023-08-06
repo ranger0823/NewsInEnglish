@@ -1,4 +1,4 @@
-# China floods:Torrential rains in Hebei province leave 10 dead
+# [China floods:Torrential rains in Hebei province leave 10 dead](https://www.bbc.com/news/world-asia-66416099)
 
 #### At least 10 people have died and 18 are missing after torrential rains battered Hebei province in northern China.
 

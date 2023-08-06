@@ -1,6 +1,7 @@
-# Pakistan passenger train derails killing 30
+# [Pakistan passenger train derails killing 30](https://www.bbc.com/news/world-asia-66421481)
 
-#### At leastt 30 people have been killed and 100 injured when a train derailed in southern Pakistan, a police spokenman has confirmed.  
+#### At least 30 people have been killed and 100 injured when a train derailed in southern Pakistan, a police spokenman has confirmed.  
+`经警方发言人证实，巴基斯坦南部地区的火车脱轨事件已致至少30人死亡及100人受伤`
 
 Serveral carriages of the Hazara Express overturned near Sahara railway station in Nawabshah, about 275km(171miles) from the largest city Karachi.  
 
