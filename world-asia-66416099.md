@@ -1,12 +1,21 @@
 # China floods:Torrential rains in Hebei province leave 10 dead
 
-### At least 10 people have died and 18 are missing after torrential rains battered Hebei province in northern China.
+#### At least 10 people have died and 18 are missing after torrential rains battered Hebei province in northern China.
 
-Officals evacuated more than half its 11.5 million people by noon(04:00 GMT) on Saturday from areas thought to be at high risk of landslides and floods.  
+Officials evacuated more than half its 11.5 million people by noon(04:00 GMT) on Saturday from areas thought to be at high risk of landslides and floods.  
 
-Storm Doksuri, which hit mainland China last week, has brought the worst rains in 140 years.  
+<details>
+<summary>Storm Doksuri, which hit mainland China last week, has brought the worst rains in 140 years.  
+</summary>
+上周袭击中国大陆的台风“杜苏芮”带来了近140年最严重的降雨。
+</details>  
 
+<details>
+<summary>
 China's weather agency issued a red alert to warn people about the "geological risks".  
+</summary>
+中国气象部门发布了红色预警，提醒人们注意“地质风险”。
+</details>
 
 Hebei province, neighbouring Beijing is said to be one of the worst affected areas.  
 
