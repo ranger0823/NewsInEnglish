@@ -30,22 +30,47 @@ sparked v.引发(spark的过去式)
 debate n.讨论
 over whether 是否
 count as 算作
-
 ```
 
-The wall has also become an arena for competing narratives - people swiftly added new graffiti criticising the Chinese government.  
+The wall has also become an arena for competing narratives - people swiftly added new graffiti criticising the Chinese government.
+```
+narrative n.叙述
+graffiti n.涂鸦
+arena n.竞技场
+criticising 批评，批判
+```  
 
 Some added "no" in front, or posted other message or image taking issue with the spray-painted words. One picture shows an £800 fine issued on Saturday, citing "graffiti & flyposting" as offences.  
+```
+flyposting n.城市牛皮癣，非法张贴广告
+offence n.违法行为，引起反感的事物
+```
 
 Other were upset that the slogans covered up older works, including a tribute to a well-known street artist who died.  
+```
+cover up 覆盖
+tribute to ... 向...致敬
+```
 
 The socialist slogans, first revealed by President Xi's predecessor Hu Jintao in 2012, include prosperity, democracy, civility, harmony, freedom, equality, justice, the rule of law, patriotism, dedication, integrity and friendship.  
+```
+
+```
+>该社会主义口号是由习近平前任主席胡锦涛于2012年提出的，该口号包括了12个词汇，分别是“富强，民主，文明，和谐，自由，平等，公正，法治，爱国，敬业，诚信，友善”
 
 Althought the slogans have attracted negative comment, it's not clear if the people who painted them were being serious or ironic.  
+```
+attract v.引起
+ironic adj.讽刺的
+```
+> 尽管这些口号招来了负面评论，但尚不清楚画这些口号的人是认真的还是讽刺的。
 
 Wang Hanzheng, one of the creator who also goes by the name Yi Que for his art works, claimed the piece "didn't have much political meaning".  
 
-In an Instagram photo post, Mr Wang wrote in Chinese saying the group used the political elements as a cost "to discuss different environments".  
+> Wang Hanzheng，艺名“Yi Que”，此次事件中的作者之一，声称此行为“没有太多的政治含义”。
+
+In an Instagram photo post, Mr Wang wrote in Chinese saying the group used the political elements as a coat "to discuss different environments".  
+
 
 "In the name of freedom and democracy, it illustrates the cultural centre of the West, this is London's freedom... Decolonize the false freedom of the West with the construction of socialism, let's see what happens," the post reads.  
 
