@@ -12,4 +12,8 @@
 
 6. [ ] [Cheng Lei: Journalist held in China says she misses sunshine / Cheng Lei：被困中国记者称想念阳光](world-asia-china-66458771.md)
 
-7. [ ] [Amazon warns workers to come back into the office / 亚马逊警告员工重返办公室](technology-66472280)
+7. [ ] [Amazon warns workers to come back into the office / 亚马逊警告员工重返办公室](technology-66472280.md)
+
+8. [ ] [Russian rouble falls to 16-month low against US dollar / 俄罗斯卢布兑美元汇率跌至16个月低点](business-66496736.md)
+
+9. [ ] [Wage surge raises prospect of further interest rate hike / 工资上涨增加了进一步加息的可能性](business-66501937.md)
